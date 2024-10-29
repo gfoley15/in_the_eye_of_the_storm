@@ -1,7 +1,7 @@
 # in_the_eye_of_the_storm
 
 ## About
-This project was inspired by personal experiences and a desire to understand the impact of hurricanes, particularly on the Gulf Coast of Southwest Florida. As a Minnesotan, hurricanes were once a distant concern, but frequent vacations to Florida sparked an interest in these powerful weather phenomena. The project aims to:
+This project was inspired by my desire to understand the impact of hurricanes, particularly on the Gulf Coast of Southwest Florida. As a Minnesotan, hurricanes were once a distant concern, but frequent vacations to Florida sparked an interest in these powerful weather phenomena. The project aims to:
 
 1. Educate about the nature and impact of hurricanes
 2. Analyze historical hurricane data to identify trends and patterns
