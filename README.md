@@ -28,6 +28,8 @@ Data was sourced from the National Oceanic and Atmospheric Administration (NOAA)
 
 This data includes crucial metrics such as location, pressure, wind speed, wind gusts, wind direction, storm speed, and storm direction.
 
+Data has been published on Kaggle: https://www.kaggle.com/datasets/garrettfoley/major-north-atlantic-hurricanes/data
+
 ## Project Workflow
 ### 1. Extract
 - Web scraped NOAA hurricane data for most intense US Landfalls
